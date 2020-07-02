@@ -1,0 +1,31 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "It is just for me to learn node.js",
+  "main": "serv.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravk7077/node-learn.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript",
+    "nodemon"
+  ],
+  "author": "Saurav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravk7077/node-learn/issues"
+  },
+  "homepage": "https://github.com/sauravk7077/node-learn#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
