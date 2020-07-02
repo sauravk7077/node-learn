@@ -1,2 +1,4 @@
 # node-learn
-Just for learning node.js
+It is just for me to learn node.js
+
+
