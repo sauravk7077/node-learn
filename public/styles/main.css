@@ -1,0 +1,4 @@
+body{
+    --grany-smith-apple: #AAFCB8;
+    background-color: var(--grany-smith-apple);
+}
