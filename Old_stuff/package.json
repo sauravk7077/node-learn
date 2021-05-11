@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/sauravk7077/node-learn#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
